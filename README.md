@@ -10,6 +10,24 @@ Zipkin is a Java-based app used for distributed tracing and identifying latency 
 
 ![1660509680601](image/README/1660509680601.png)
 
+## Components
+
+Some of them
+
+![1660513582553](image/README/1660513582553.png)
+
+## Spring Pipeline
+
+Spring stream pipeline / data flow
+
+![1660513965220](image/README/1660513965220.png)
+
+![1660513981993](image/README/1660513981993.png)
+
+REST Post -> file
+
+![1660514069109](image/README/1660514069109.png)
+
 ## Spring Boot
 
 ## Spring
